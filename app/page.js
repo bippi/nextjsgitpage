@@ -18,7 +18,7 @@ export default function Home() {
           >
             By{" "}
             <img
-              src="/vercel.svg"
+              src="vercel.svg"
               alt="Vercel Logo"
               className={styles.vercelLogo}
             />
@@ -27,7 +27,7 @@ export default function Home() {
       </div>
 
       <div className={styles.center}>
-        <img className={styles.logo} src="/next.svg" alt="Next.js Logo" />
+        <img className={styles.logo} src="next.svg" alt="Next.js Logo" />
       </div>
 
       <div className={styles.grid}>
